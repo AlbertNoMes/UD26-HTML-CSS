@@ -1,0 +1,63 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: rgb(192, 192, 192) 5px solid;
+  text-align: center;
+  width: 900px;
+  border-radius: 10px;
+}
+/*MENU IZQUIERDA*/
+ul{
+  float: left;
+  padding-left: 30px;
+}
+li{
+  list-style: none;
+  text-align: center;
+  border: rgb(192, 192, 192) 1px solid;
+  padding: 10px;
+  margin-bottom: 5px;
+  background: linear-gradient(rgb(255, 255, 255), rgb(213, 255, 130));
+}
+/*AL PASAR POR ENCIMA*/
+li:hover{
+  list-style: none;
+  text-align: center;
+  border: rgb(192, 192, 192) 1px solid;
+  padding: 10px;
+  margin-bottom: 5px;
+  background-color: rgb(216, 216, 216);
+}
+/*CUADRO DERECHA*/
+div {
+  background: linear-gradient(rgba(180, 180, 180, 0.400), white, rgba(180, 180, 180, 0.400));
+  margin-left: 150px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  border: rgb(192, 192, 192) 1px solid;
+  padding: 10px;
+  text-align: justify;
+}
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  background-position: center;
+}
+span1 {
+  color: green;
+}
+span2 {
+  color: orange;
+}
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(95, 172, 95);
+  border-bottom: rgb(192, 192, 192) 1px solid;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:orange;
+}
+p1{
+  font-style: italic;
+}

@@ -1,0 +1,34 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: rgb(192, 192, 192) 5px solid;
+  border-top-width: 10px;
+  border-right-width: 10px;
+  border-bottom-width: 15px;
+  text-align: justify;
+  width: fit-content;
+}
+div {
+  margin: 20px;
+  border: rgb(192, 192, 192) 1px solid;
+  padding: 10px;
+}
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+span1 {
+  color: green;
+}
+span2 {
+  color: orange;
+}
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(95, 172, 95);
+  border-bottom: rgb(192, 192, 192) 1px solid;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:orange;
+}
